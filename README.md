@@ -2,7 +2,8 @@
 
 Proyecto final del curso CCNA 2 (Switching, Routing, and Wireless Essentials), Universidad Castro Carazo. Desarrollado en Cisco Packet Tracer.
 
-![Topología](topologia.png)
+<img width="2102" height="747" alt="image" src="https://github.com/user-attachments/assets/5797be9b-d005-44e5-a35a-d7abfbe37369" />
+
 
 ## Descripción
 
